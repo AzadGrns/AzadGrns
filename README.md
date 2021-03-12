@@ -2,6 +2,5 @@
 
 Benim Hobilerim:
 
-- 💻 Yazılımcı ...
-- 🤖 Discord Bot Yapımcısı ...
--->
+- 💻 Yazılımcı 
+- 🤖 Discord Bot Yapımcısı 
