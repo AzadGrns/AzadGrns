@@ -7,11 +7,3 @@
     <a href="https://www.npmjs.com/package/discord.js"><img src="https://img.shields.io/npm/v/discord.js.svg?maxAge=3600" alt="NPM version" /></a>
   </p>
 </div>
-  <br>
-  
-  ## Stats
-
- <img align="left" alt="ardakaragoz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ardakaragoz&show_icons=true&theme=radical&custom_title=Stats%20For%20Arda%20In%20Github&cache_seconds=18000" />
-<img align="center" alt="ardakaragoz's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardakaragoz" />
-
-<br>
